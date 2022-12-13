@@ -863,7 +863,7 @@ return T_MAIS;
 case 14:
 YY_RULE_SETUP
 #line 31 "lexico.l"
-return T_MENOS;
+return T_SUBT;
 	YY_BREAK
 case 15:
 YY_RULE_SETUP

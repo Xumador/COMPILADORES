@@ -28,7 +28,7 @@ faca        return T_FACA;
 fimenquanto return T_FIMENQTO;
 
 "+"         return T_MAIS;
-"-"         return T_MENOS;
+"-"         return T_SUBT;
 "*"         return T_VEZES;
 div         return T_DIV;
 ">"         return T_MAIOR;

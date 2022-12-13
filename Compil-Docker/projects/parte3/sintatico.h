@@ -62,7 +62,7 @@ extern int yydebug;
     T_FACA = 268,
     T_FIMENQTO = 269,
     T_MAIS = 270,
-    T_MENOS = 271,
+    T_SUBT = 271,
     T_VEZES = 272,
     T_DIV = 273,
     T_MAIOR = 274,
